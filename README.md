@@ -46,7 +46,7 @@ Pacote Mensal (40h)           Demandas intensivas ou projetos em andamento.   $2
 **OBSERVAÇÕES**  
 -------------------------------  
 1. Descontos para contratos de longo prazo.  
-2. Horas mínimas: 10h para consultoria.  
+2. Horas mínimas: 2h para consultoria.  
 3. Preços fixos disponíveis para projetos bem definidos.  
 
 -------------------------------  
